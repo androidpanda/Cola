@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Cola</string>
+
+    <!--                       public                                           -->
+
+    <string name="back">back</string>
+
+
+
+    <!--                       cola_s                                           -->
+
+    <string name="s">펩시 캔 정보</string>
+
+    <string name="s_price">평상시 1200원\n이벤트 시 1+1</string>
+
+    <string name="s_bene">평상시는 1ml당 3.4원,\n\n 이벤트 시 1ml당 1.7원</string>
+
+
+
+    <!--                       cola_m                                           -->
+
+    <string name="m">펩시 페트 정보</string>
+
+    <string name="m_price">평상시 500ml는 1000원(슈퍼),\n 600ml는 1800원(편의점)
+    \n\n이벤트 시 600ml 1+1(GS25 or 세븐일레븐)(편의점)</string>
+
+    <string name="m_bene">평상시 1ml당 2원(슈퍼),\n1ml당 3원(편의점)\n\n
+    이벤트 시 평상시 1ml당 1.5원(편의점)</string>
+
+
+
+    <!--                       cola_l                                           -->
+
+    <string name="l">펩시 대형 페트 정보</string>
+
+    <string name="l_price">평상시 1.25L는 2000원(슈퍼),\n1.5L는 2800원(편의점)\n
+    \n이벤트 시 1.5L 1+1(세븐일레븐)(편의점)</string>
+
+    <string name="l_bene">평상시 1ml당 1.6원(슈퍼),\n1ml당 1.9원(편의점)\n\n
+    이벤트 시 1ml당 1원(편의점) </string>
+
+
+
+</resources>
